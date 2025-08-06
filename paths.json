@@ -5,6 +5,6 @@
     "/content/ballseed/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/ballseed/"
   ]
 }
